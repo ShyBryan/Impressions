@@ -113,6 +113,15 @@ nav .container{
     font-size: 17px;
     color: gray;
 }
+.search-bar2{
+    text-align: center;
+    background: var(--color-light);
+    border-radius: var(--border-radius);
+    padding: 5px;
+    background-color: lightgray;
+    font-size: 13px;
+    color: #ff3823;
+}
 
 .search-bar input{
     background: transparent;
@@ -550,6 +559,13 @@ main .container .right{
     padding: 0 16px;
 }
 .right .contact{
+    text-align: center;
+    background: var(--color-light);
+    border-radius: var(--border-radius);
+    padding: 10px;
+    background-color: white;
+    font-size: 13px;
+    color: black;
     display: flex;
     justify-content: space-between;
 }
